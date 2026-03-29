@@ -58,8 +58,7 @@
         { "over": 13, "runs": 10, "wickets": 2, "bowler": "David Payne" },
         { "over": 14, "runs": 13,  "wickets": 0, "bowler": "Harsh Dubey" },
         { "over": 15, "runs": 16,  "wickets": 0, "bowler": "David Payne" },
-        { "over": 16, "runs": 9,  "wickets": 0, "bowler": "Jaydev Unadkat" },
-        
+        { "over": 16, "runs": 9,  "wickets": 0, "bowler": "Jaydev Unadkat" },   
       ]
     }
   ]
