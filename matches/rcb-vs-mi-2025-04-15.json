@@ -12,8 +12,7 @@
       "bowlingTeam": "RCB",
       "totalRuns": 172,
       "wickets": 9,
-      "commentary": "RCB bowled very well throughout. Bhuvneshwar Kumar was excellent with early swing. Hazlewood strangled the middle overs and the death bowling was tight. Over 6 was the only expensive one when Krunal Pandya was hit for 19.
-      RCB bowled very well throughout. Bhuvneshwar Kumar was excellent with early swing. Hazlewood strangled the middle overs and the death bowling was tight. Over 6 was the only expensive one when Krunal Pandya was hit for 19.",
+      "commentary": "RCB bowled very well throughout. Bhuvneshwar Kumar was excellent with early swing. Hazlewood strangled the middle overs and the death bowling was tight. Over 6 was the only expensive one when Krunal Pandya was hit for 19.",
       "overs": [
         { "over": 1,  "runs": 12, "wickets": 0, "bowler": "Bhuvneshwar Kumar" },
         { "over": 2,  "runs": 15, "wickets": 1, "bowler": "Krunal Pandya" },
